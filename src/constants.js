@@ -1,0 +1,2 @@
+export const BENGALI_MONTH_NAMES = { boishakh: 'বৈশাখ', joishho: 'জ্যৈষ্ঠ', asharh: 'আষাঢ়', shrabon: 'শ্রাবণ', bhadro: 'ভাদ্র', ashwin: 'আশ্বিন', kartik: 'কার্তিক', ogrohayon: 'অগ্রহায়ণ', poush: 'পৌষ', magh: 'মাঘ', falgun: 'ফাল্গুন', choitro: 'চৈত্র' };
+export const BENGALI_WEEKDAYS = ['রবি', 'সোম', 'মঙ্গল', 'বুধ', 'বৃহঃ', 'শুক্র', 'শনি'];

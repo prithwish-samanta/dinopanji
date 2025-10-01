@@ -1,0 +1,3369 @@
+{
+  "1430": {
+    "boishakh": [],
+    "joishho": [],
+    "asharh": [],
+    "shrabon": [],
+    "bhadro": [],
+    "ashwin": [],
+    "kartik": [],
+    "ogrohayon": [],
+    "poush": [],
+    "magh": [],
+    "falgun": [],
+    "choitro": []
+  },
+  "1431": {
+    "boishakh": [],
+    "joishho": [],
+    "asharh": [],
+    "shrabon": [],
+    "bhadro": [],
+    "ashwin": [],
+    "kartik": [],
+    "ogrohayon": [],
+    "poush": [],
+    "magh": [],
+    "falgun": [],
+    "choitro": []
+  },
+  "1432": {
+    "boishakh": [
+      {
+        "date": "1",
+        "gregorianDate": "15-04-2025",
+        "event": "Dbitiya upto 08:47 AM",
+        "festival": "Bengali New Year's Day (Nababarsha)",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "16-04-2025",
+        "event": "Tritiya upto 10:40 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "17-04-2025",
+        "event": "Chaturthi upto 12:14 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "18-04-2025",
+        "event": "Panchami upto 01:24 PM",
+        "festival": "Good Friday",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "19-04-2025",
+        "event": "Shashthi upto 02:04 PM",
+        "festival": "Easter Saturday",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": true
+      },
+      {
+        "date": "6",
+        "gregorianDate": "20-04-2025",
+        "event": "Saptami upto 02:13 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "21-04-2025",
+        "event": "Ashtami upto 01:52 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "22-04-2025",
+        "event": "Nabami upto 01:02 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "23-04-2025",
+        "event": "Dashami upto 11:46 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "24-04-2025",
+        "event": "Ekadashi upto 10:08 AM",
+        "festival": "Baruthini Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "25-04-2025",
+        "event": "Dbadashi upto 08:11 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "26-04-2025",
+        "event": "Trayodashi upto 06:00 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "27-04-2025",
+        "event": "Amabasya upto 01:13 AM Apr 28",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "28-04-2025",
+        "event": "Pratipada upto 10:46 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "29-04-2025",
+        "event": "Dbitiya upto 08:25 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "30-04-2025",
+        "event": "Tritiya upto 06:13 PM",
+        "festival": "Akshya Tritiya",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "01-05-2025",
+        "event": "Chaturthi upto 04:16 PM",
+        "festival": "May Day",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "02-05-2025",
+        "event": "Panchami upto 02:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "03-05-2025",
+        "event": "Shashthi upto 01:19 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "04-05-2025",
+        "event": "Saptami upto 12:27 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "05-05-2025",
+        "event": "Ashtami upto 12:04 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "06-05-2025",
+        "event": "Nabami upto 12:12 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "07-05-2025",
+        "event": "Dashami upto 12:50 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "08-05-2025",
+        "event": "Ekadashi upto 01:57 PM",
+        "festival": "World Redcross Day, Mohini Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "09-05-2025",
+        "event": "Dbadashi upto 03:28 PM",
+        "festival": "Rabindranath Tagore Birth Day",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "10-05-2025",
+        "event": "Trayodashi upto 05:19 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "11-05-2025",
+        "event": "Chaturdashi upto 07:20 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "12-05-2025",
+        "event": "Purnima upto 09:22 PM",
+        "festival": "Buddha Purnima, Birth Day of Pandit Raghunath Murmu",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "13-05-2025",
+        "event": "Pratipada upto 11:13 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "14-05-2025",
+        "event": "Dbitiya upto 12:46 AM May 15",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "15-05-2025",
+        "event": "Tritiya upto 01:54 AM May 16",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "joishho": [
+      {
+        "date": "1",
+        "gregorianDate": "16-05-2025",
+        "event": "Chaturthi upto 02:33 AM May 17",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "17-05-2025",
+        "event": "Panchami upto 02:42 AM May 18",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "18-05-2025",
+        "event": "Shashthi upto 02:20 AM May 19",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "19-05-2025",
+        "event": "Saptami upto 01:29 AM May 20",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "20-05-2025",
+        "event": "Ashtami upto 12:13 AM May 21",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "21-05-2025",
+        "event": "Nabami upto 10:33 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "22-05-2025",
+        "event": "Dashami upto 08:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "23-05-2025",
+        "event": "Ekadashi upto 06:24 PM",
+        "festival": "Apara Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "24-05-2025",
+        "event": "Dbadashi upto 04:02 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "25-05-2025",
+        "event": "Trayodashi upto 01:34 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "26-05-2025",
+        "event": "Chaturdashi upto 11:07 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "27-05-2025",
+        "event": "Amabasya upto 08:44 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "28-05-2025",
+        "event": "Pratipada upto 06:30 AM, Dbitiya upto 04:30 AM May 29",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "29-05-2025",
+        "event": "Tritiya upto 02:49 AM May 30",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "30-05-2025",
+        "event": "Chaturthi upto 01:28 AM May 31",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "31-05-2025",
+        "event": "Panchami upto 12:34 AM Jun 01",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "01-06-2025",
+        "event": "Shashthi upto 12:08 AM Jun 02",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "02-06-2025",
+        "event": "Saptami upto 12:13 AM Jun 03",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "03-06-2025",
+        "event": "Ashtami upto 12:47 AM Jun 04",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "04-06-2025",
+        "event": "Nabami upto 01:51 AM Jun 05",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "05-06-2025",
+        "event": "Dashami upto 03:20 AM Jun 06",
+        "festival": "World Environment Day, Ganga Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "06-06-2025",
+        "event": "Ekadashi upto Full Night",
+        "festival": "Nirjala Ekadashi, Day before Id-Ud-Zoha (Bakrid)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "07-06-2025",
+        "event": "Ekadashi upto 05:08 AM",
+        "festival": "Id-Ud-Zoha (Bakrid)",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "08-06-2025",
+        "event": "Dbadashi upto 07:07 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "09-06-2025",
+        "event": "Trayodashi upto 09:07 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "10-06-2025",
+        "event": "Chaturdashi upto 10:58 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "11-06-2025",
+        "event": "Purnima upto 12:31 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "12-06-2025",
+        "event": "Pratipada upto 01:39 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "13-06-2025",
+        "event": "Dbitiya upto 02:19 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "14-06-2025",
+        "event": "Tritiya upto 02:28 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "15-06-2025",
+        "event": "Chaturthi upto 02:07 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "asharh": [
+      {
+        "date": "1",
+        "gregorianDate": "16-06-2025",
+        "event": "Panchami upto 01:17 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "17-06-2025",
+        "event": "Shashthi upto 12:01 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "18-06-2025",
+        "event": "Saptami upto 10:22 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "19-06-2025",
+        "event": "Ashtami upto 08:25 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "20-06-2025",
+        "event": "Nabami upto 06:13 AM, Dashami upto 03:51 AM Jun 21",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "21-06-2025",
+        "event": "Ekadashi upto 01:23 AM Jun 22",
+        "festival": "Yogini Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "22-06-2025",
+        "event": "Dbadashi upto 10:54 PM",
+        "festival": "Ambubuchi Start",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "23-06-2025",
+        "event": "Trayodashi upto 08:30 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "24-06-2025",
+        "event": "Chaturdashi upto 06:15 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "25-06-2025",
+        "event": "Amabasya upto 04:13 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "26-06-2025",
+        "event": "Pratipada upto 02:29 PM",
+        "festival": "Ambubuchi Ends",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "27-06-2025",
+        "event": "Dbitiya upto 01:07 PM",
+        "festival": "Rathayatra",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "28-06-2025",
+        "event": "Tritiya upto 12:09 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "29-06-2025",
+        "event": "Chaturthi upto 11:41 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "30-06-2025",
+        "event": "Panchami upto 11:42 AM",
+        "festival": "Hul Diwas (for Adivasi (Santhal) only )",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": true
+      },
+      {
+        "date": "16",
+        "gregorianDate": "01-07-2025",
+        "event": "Shashthi upto 12:14 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "02-07-2025",
+        "event": "Saptami upto 01:15 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "03-07-2025",
+        "event": "Ashtami upto 02:41 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "04-07-2025",
+        "event": "Nabami upto 04:27 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "05-07-2025",
+        "event": "Dashami upto 06:25 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "06-07-2025",
+        "event": "Ekadashi upto 08:25 PM",
+        "festival": "Muharram, Devshayani Ekadashi",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "07-07-2025",
+        "event": "Dbadashi upto 10:16 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "08-07-2025",
+        "event": "Trayodashi upto 11:50 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "09-07-2025",
+        "event": "Chaturdashi upto 01:00 AM Jul 10",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "10-07-2025",
+        "event": "Purnima upto 01:42 AM Jul 11",
+        "festival": "Guru Purnima",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "11-07-2025",
+        "event": "Pratipada upto 01:54 AM Jul 12",
+        "festival": "World Population Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "12-07-2025",
+        "event": "Dbitiya upto 01:35 AM Jul 13",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "13-07-2025",
+        "event": "Tritiya upto 12:47 AM Jul 14",
+        "festival": "Birth Day of Poet Bhanu Bhakt (for Darjeeling Kalimpong District only)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "14-07-2025",
+        "event": "Chaturthi upto 11:33 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "15-07-2025",
+        "event": "Panchami upto 09:55 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "16-07-2025",
+        "event": "Shashthi upto 07:59 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "32",
+        "gregorianDate": "17-07-2025",
+        "event": "Saptami upto 05:48 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "shrabon": [
+      {
+        "date": "1",
+        "gregorianDate": "18-07-2025",
+        "event": "Ashtami upto 03:27 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "19-07-2025",
+        "event": "Nabami upto 12:59 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "20-07-2025",
+        "event": "Dashami upto 10:30 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "21-07-2025",
+        "event": "Ekadashi upto 08:06 AM",
+        "festival": "Kamika Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "22-07-2025",
+        "event": "Dbadashi upto 05:50 AM, Trayodashi upto 03:47 AM Jul 23",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "23-07-2025",
+        "event": "Chaturdashi upto 02:02 AM Jul 24",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "24-07-2025",
+        "event": "Amabasya upto 12:38 AM Jul 25",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "25-07-2025",
+        "event": "Pratipada upto 11:39 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "26-07-2025",
+        "event": "Dbitiya upto 11:08 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "27-07-2025",
+        "event": "Tritiya upto 11:08 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "28-07-2025",
+        "event": "Chaturthi upto 11:37 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "29-07-2025",
+        "event": "Panchami upto 12:37 AM Jul 30",
+        "festival": "Naag Panchami",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "30-07-2025",
+        "event": "Shashthi upto 02:02 AM Jul 31",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "31-07-2025",
+        "event": "Saptami upto 03:48 AM Aug 01",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "01-08-2025",
+        "event": "Ashtami upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "02-08-2025",
+        "event": "Ashtami upto 05:46 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "03-08-2025",
+        "event": "Nabami upto 07:47 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "04-08-2025",
+        "event": "Dashami upto 09:40 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "05-08-2025",
+        "event": "Ekadashi upto 11:16 AM",
+        "festival": "Pobitra Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "06-08-2025",
+        "event": "Dbadashi upto 12:29 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "07-08-2025",
+        "event": "Trayodashi upto 01:14 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "08-08-2025",
+        "event": "Chaturdashi upto 01:29 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "09-08-2025",
+        "event": "Purnima upto 01:13 PM",
+        "festival": "Rakhi Bandhan",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "10-08-2025",
+        "event": "Pratipada upto 12:28 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "11-08-2025",
+        "event": "Dbitiya upto 11:16 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "12-08-2025",
+        "event": "Tritiya upto 09:41 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "13-08-2025",
+        "event": "Chaturthi upto 07:47 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "14-08-2025",
+        "event": "Panchami upto 05:38 AM, Shashthi upto 03:18 AM Aug 15",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "15-08-2025",
+        "event": "Saptami upto 12:51 AM Aug 16",
+        "festival": "Independence Day, Janmastami (smarta)",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "16-08-2025",
+        "event": "Ashtami upto 10:23 PM",
+        "festival": "Janmastami (Vaisnava)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "17-08-2025",
+        "event": "Nabami upto 07:59 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "bhadro": [
+      {
+        "date": "1",
+        "gregorianDate": "18-08-2025",
+        "event": "Dashami upto 05:43 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "19-08-2025",
+        "event": "Ekadashi upto 03:41 PM",
+        "festival": "Aja Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "20-08-2025",
+        "event": "Dbadashi upto 01:55 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "21-08-2025",
+        "event": "Trayodashi upto 12:31 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "22-08-2025",
+        "event": "Chaturdashi upto 11:31 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "23-08-2025",
+        "event": "Amabasya upto 11:00 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "24-08-2025",
+        "event": "Pratipada upto 10:59 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "25-08-2025",
+        "event": "Dbitiya upto 11:28 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "26-08-2025",
+        "event": "Tritiya upto 12:28 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "27-08-2025",
+        "event": "Chaturthi upto 01:53 PM",
+        "festival": "Ganesh Chaturthi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "28-08-2025",
+        "event": "Panchami upto 03:39 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "29-08-2025",
+        "event": "Shashthi upto 05:39 PM",
+        "festival": "World Sports Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "30-08-2025",
+        "event": "Saptami upto 07:42 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "31-08-2025",
+        "event": "Ashtami upto 09:37 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "01-09-2025",
+        "event": "Nabami upto 11:16 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "02-09-2025",
+        "event": "Dashami upto 12:32 AM Sep 03",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "03-09-2025",
+        "event": "Ekadashi upto 01:20 AM Sep 04",
+        "festival": "Padma Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "04-09-2025",
+        "event": "Dbadashi upto 01:38 AM Sep 05",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "05-09-2025",
+        "event": "Trayodashi upto 01:25 AM Sep 06",
+        "festival": "Teachers Day, Fateha-Dwaz-Daham",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "06-09-2025",
+        "event": "Chaturdashi upto 12:43 AM Sep 07",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "07-09-2025",
+        "event": "Purnima upto 11:34 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "08-09-2025",
+        "event": "Pratipada upto 10:01 PM",
+        "festival": "World Literacy Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "09-09-2025",
+        "event": "Dbitiya upto 08:09 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "10-09-2025",
+        "event": "Tritiya upto 06:02 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "11-09-2025",
+        "event": "Chaturthi upto 03:44 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "12-09-2025",
+        "event": "Panchami upto 01:19 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "13-09-2025",
+        "event": "Shashthi upto 10:52 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "14-09-2025",
+        "event": "Saptami upto 08:30 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "15-09-2025",
+        "event": "Ashtami upto 06:15 AM, Nabami upto 04:13 AM Sep 16",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "16-09-2025",
+        "event": "Dashami upto 02:28 AM Sep 17",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "17-09-2025",
+        "event": "Ekadashi upto 01:05 AM Sep 18",
+        "festival": "Indira Ekadashi, Vishwakarma Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "ashwin": [
+      {
+        "date": "1",
+        "gregorianDate": "18-09-2025",
+        "event": "Dbadashi upto 12:07 AM Sep 19",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "19-09-2025",
+        "event": "Trayodashi upto 11:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "20-09-2025",
+        "event": "Chaturdashi upto 11:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "21-09-2025",
+        "event": "Amabasya upto 12:06 AM Sep 22",
+        "festival": "Mahalaya",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "22-09-2025",
+        "event": "Pratipada upto 01:07 AM Sep 23",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "23-09-2025",
+        "event": "Dbitiya upto 02:34 AM Sep 24",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "24-09-2025",
+        "event": "Tritiya upto 04:22 AM Sep 25",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "25-09-2025",
+        "event": "Chaturthi upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "26-09-2025",
+        "event": "Chaturthi upto 06:24 AM",
+        "festival": "Durga Puja, Maha Chaturthi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "27-09-2025",
+        "event": "Panchami upto 08:29 AM",
+        "festival": "Durga Puja, Maha Panchami",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "28-09-2025",
+        "event": "Shashthi upto 10:27 AM",
+        "festival": "Durga Puja, Maha Shashthi",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "29-09-2025",
+        "event": "Saptami upto 12:09 PM",
+        "festival": "Durga Puja, Maha Saptami",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "30-09-2025",
+        "event": "Ashtami upto 01:27 PM",
+        "festival": "Durga Puja, Maha Aastami",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "01-10-2025",
+        "event": "Nabami upto 02:18 PM",
+        "festival": "Durga Puja, Maha Nawami",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "02-10-2025",
+        "event": "Dashami upto 02:38 PM",
+        "festival": "Birth Day of Gandhiji, Durga Puja, Maha Dashami",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "03-10-2025",
+        "event": "Ekadashi upto 02:27 PM",
+        "festival": "Additional Day for Durga Puja, Pashankusha Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "04-10-2025",
+        "event": "Dbadashi upto 01:47 PM",
+        "festival": "Additional Day for Durga Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "05-10-2025",
+        "event": "Trayodashi upto 12:41 PM",
+        "festival": "World Teachers Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "06-10-2025",
+        "event": "Chaturdashi upto 11:10 AM",
+        "festival": "Lakshmi Puja",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "07-10-2025",
+        "event": "Purnima upto 09:20 AM",
+        "festival": "Additional Day for Lakshmi Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "08-10-2025",
+        "event": "Pratipada upto 07:14 AM, Dbitiya upto 04:58 AM Oct 09",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "09-10-2025",
+        "event": "Tritiya upto 02:34 AM Oct 10",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "10-10-2025",
+        "event": "Chaturthi upto 12:09 AM Oct 11",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "11-10-2025",
+        "event": "Panchami upto 09:48 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "12-10-2025",
+        "event": "Shashthi upto 07:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "13-10-2025",
+        "event": "Saptami upto 05:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "14-10-2025",
+        "event": "Ashtami upto 03:53 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "15-10-2025",
+        "event": "Nabami upto 02:31 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "16-10-2025",
+        "event": "Dashami upto 01:35 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "17-10-2025",
+        "event": "Ekadashi upto 01:07 PM",
+        "festival": "Rama Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "31",
+        "gregorianDate": "18-10-2025",
+        "event": "Dbadashi upto 01:09 PM",
+        "festival": "Dhan Teras",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "kartik": [
+      {
+        "date": "1",
+        "gregorianDate": "19-10-2025",
+        "event": "Trayodashi upto 01:42 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "20-10-2025",
+        "event": "Chaturdashi upto 02:45 PM",
+        "festival": "Kali Puja",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "21-10-2025",
+        "event": "Amabasya upto 04:15 PM",
+        "festival": "Deepawali, Additional Day for Kali Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "22-10-2025",
+        "event": "Pratipada upto 06:05 PM",
+        "festival": "Additional Day for Kali Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "23-10-2025",
+        "event": "Dbitiya upto 08:09 PM",
+        "festival": "Bhratridwitiya",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "24-10-2025",
+        "event": "Tritiya upto 10:17 PM",
+        "festival": "Day after Bhratridwitiya",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "25-10-2025",
+        "event": "Chaturthi upto 12:17 AM Oct 26",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "26-10-2025",
+        "event": "Panchami upto 02:01 AM Oct 27",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "27-10-2025",
+        "event": "Shashthi upto 03:21 AM Oct 28",
+        "festival": "Chhat Puja",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "28-10-2025",
+        "event": "Saptami upto 04:13 AM Oct 29",
+        "festival": "Additional Day for Chhat Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "29-10-2025",
+        "event": "Ashtami upto 04:35 AM Oct 30",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "30-10-2025",
+        "event": "Nabami upto 04:25 AM Oct 31",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "31-10-2025",
+        "event": "Dashami upto 03:46 AM Nov 01",
+        "festival": "Jagadhatri Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "01-11-2025",
+        "event": "Ekadashi upto 02:40 AM Nov 02",
+        "festival": "Devutthana Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "02-11-2025",
+        "event": "Dbadashi upto 01:11 AM Nov 03",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "03-11-2025",
+        "event": "Trayodashi upto 11:22 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "04-11-2025",
+        "event": "Chaturdashi upto 09:18 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "05-11-2025",
+        "event": "Purnima upto 07:02 PM",
+        "festival": "Guru Nanak Birthday, Parshwanath's Rathajatra",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "06-11-2025",
+        "event": "Pratipada upto 04:40 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "07-11-2025",
+        "event": "Dbitiya upto 02:17 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "08-11-2025",
+        "event": "Tritiya upto 11:58 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "09-11-2025",
+        "event": "Chaturthi upto 09:47 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "10-11-2025",
+        "event": "Panchami upto 07:49 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "11-11-2025",
+        "event": "Shashthi upto 06:09 AM, Saptami upto 04:50 AM Nov 12",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "12-11-2025",
+        "event": "Ashtami upto 03:57 AM Nov 13",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "13-11-2025",
+        "event": "Nabami upto 03:31 AM Nov 14",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "14-11-2025",
+        "event": "Dashami upto 03:37 AM Nov 15",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "15-11-2025",
+        "event": "Ekadashi upto 04:13 AM Nov 16",
+        "festival": "Birth Day of Birsa Munda, Utpanna Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "16-11-2025",
+        "event": "Dbadashi upto 05:20 AM Nov 17",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "17-11-2025",
+        "event": "Trayodashi upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "ogrohayon": [
+      {
+        "date": "1",
+        "gregorianDate": "18-11-2025",
+        "event": "Trayodashi upto 06:53 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "19-11-2025",
+        "event": "Chaturdashi upto 08:47 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "20-11-2025",
+        "event": "Amabasya upto 10:53 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "21-11-2025",
+        "event": "Pratipada upto 01:03 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "22-11-2025",
+        "event": "Dbitiya upto 03:04 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "23-11-2025",
+        "event": "Tritiya upto 04:49 PM",
+        "festival": "Itu Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "24-11-2025",
+        "event": "Chaturthi upto 06:09 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "25-11-2025",
+        "event": "Panchami upto 07:01 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "26-11-2025",
+        "event": "Shashthi upto 07:22 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "27-11-2025",
+        "event": "Saptami upto 07:13 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "28-11-2025",
+        "event": "Ashtami upto 06:34 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "29-11-2025",
+        "event": "Nabami upto 05:27 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "30-11-2025",
+        "event": "Dashami upto 03:58 PM",
+        "festival": "Itu Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "01-12-2025",
+        "event": "Ekadashi upto 02:09 PM",
+        "festival": "World AIDS Day, Mokshada Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "02-12-2025",
+        "event": "Dbadashi upto 12:05 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "03-12-2025",
+        "event": "Trayodashi upto 09:51 AM",
+        "festival": "World Disability Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "04-12-2025",
+        "event": "Chaturdashi upto 07:30 AM, Purnima upto 05:08 AM Dec 05",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "05-12-2025",
+        "event": "Pratipada upto 02:50 AM Dec 06",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "06-12-2025",
+        "event": "Dbitiya upto 12:41 AM Dec 07",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "07-12-2025",
+        "event": "Tritiya upto 10:46 PM",
+        "festival": "Itu Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "08-12-2025",
+        "event": "Chaturthi upto 09:08 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "09-12-2025",
+        "event": "Panchami upto 07:52 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "10-12-2025",
+        "event": "Shashthi upto 07:02 PM",
+        "festival": "World Human Rights Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "11-12-2025",
+        "event": "Saptami upto 06:40 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "12-12-2025",
+        "event": "Ashtami upto 06:49 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "13-12-2025",
+        "event": "Nabami upto 07:30 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "14-12-2025",
+        "event": "Dashami upto 08:40 PM",
+        "festival": "Itu Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "15-12-2025",
+        "event": "Ekadashi upto 10:16 PM",
+        "festival": "Safala Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "16-12-2025",
+        "event": "Dbadashi upto 12:12 AM Dec 17",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "poush": [
+      {
+        "date": "1",
+        "gregorianDate": "17-12-2025",
+        "event": "Trayodashi upto 02:18 AM Dec 18",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "18-12-2025",
+        "event": "Chaturdashi upto 04:36 AM Dec 19",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "19-12-2025",
+        "event": "Amabasya upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "20-12-2025",
+        "event": "Amabasya upto 06:33 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "21-12-2025",
+        "event": "Pratipada upto 08:17 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "22-12-2025",
+        "event": "Dbitiya upto 09:36 AM",
+        "festival": "Itu Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "23-12-2025",
+        "event": "Tritiya upto 10:27 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "24-12-2025",
+        "event": "Chaturthi upto 10:46 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "25-12-2025",
+        "event": "Panchami upto 10:35 AM",
+        "festival": "Christmas Day",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "26-12-2025",
+        "event": "Shashthi upto 09:54 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "27-12-2025",
+        "event": "Saptami upto 08:46 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "28-12-2025",
+        "event": "Ashtami upto 07:16 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "29-12-2025",
+        "event": "Dashami upto 03:21 AM Dec 30",
+        "festival": "Putrada Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "30-12-2025",
+        "event": "Ekadashi upto 01:07 AM Dec 31",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "31-12-2025",
+        "event": "Dbadashi upto 10:46 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "01-01-2026",
+        "event": "rayodashi upto 08:24 PM",
+        "festival": "New Year's Day",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "02-01-2026",
+        "event": "Chaturdashi upto 06:08 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "03-01-2026",
+        "event": "Purnima upto 04:01 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "04-01-2026",
+        "event": "Pratipada upto 02:07 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "05-01-2026",
+        "event": "Dbitiya upto 12:32 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "06-01-2026",
+        "event": "Tritiya upto 11:18 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "07-01-2026",
+        "event": "Chaturthi upto 10:31 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "08-01-2026",
+        "event": "Panchami upto 10:13 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "09-01-2026",
+        "event": "Shashthi upto 10:25 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "10-01-2026",
+        "event": "Saptami upto 11:08 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "11-01-2026",
+        "event": "Ashtami upto 12:21 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "12-01-2026",
+        "event": "Nabami upto 02:00 PM",
+        "festival": "Birth Day of Swami Vivekananda",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "13-01-2026",
+        "event": "Dashami upto 03:58 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "14-01-2026",
+        "event": "Ekadashi upto 06:07 PM",
+        "festival": "Shattila Ekadashi, Poush Parbon, Makar Sankranti",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "magh": [
+      {
+        "date": "1",
+        "gregorianDate": "15-01-2026",
+        "event": "Dbadashi upto 08:17 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "16-01-2026",
+        "event": "Trayodashi upto 10:18 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "17-01-2026",
+        "event": "Chaturdashi upto 11:59 PM",
+        "festival": "Ratanti Kali Puja",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "18-01-2026",
+        "event": "Amabasya upto 01:16 AM Jan 19",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "19-01-2026",
+        "event": "Pratipada upto 02:03 AM Jan 20",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "20-01-2026",
+        "event": "Dbitiya upto 02:20 AM Jan 21",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "21-01-2026",
+        "event": "Tritiya upto 02:05 AM Jan 22",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "22-01-2026",
+        "event": "Chaturthi upto 01:22 AM Jan 23",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "23-01-2026",
+        "event": "Panchami upto 12:12 AM Jan 24",
+        "festival": "Netaji's Birth Day, Saraswati Puja, Sree Panchami",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "24-01-2026",
+        "event": "Shashthi upto 10:39 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "25-01-2026",
+        "event": "Saptami upto 08:47 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "26-01-2026",
+        "event": "Ashtami upto 06:41 PM",
+        "festival": "Republic Day",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "27-01-2026",
+        "event": "Nabami upto 04:25 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "28-01-2026",
+        "event": "Dashami upto 02:04 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "29-01-2026",
+        "event": "Ekadashi upto 11:42 AM",
+        "festival": "Jaya, Bhaimi Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "30-01-2026",
+        "event": "Dbadashi upto 09:26 AM",
+        "festival": "Mahatma Gandhi Death Day, Shahid Diwas",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "31-01-2026",
+        "event": "Trayodashi upto 07:19 AM,",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "01-02-2026",
+        "event": "Purnima upto 03:52 AM Feb 02",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "02-02-2026",
+        "event": "Pratipada upto 02:40 AM Feb 03",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "03-02-2026",
+        "event": "Dbitiya upto 01:55 AM Feb 04",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "04-02-2026",
+        "event": "Tritiya upto 01:38 AM Feb 05",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "05-02-2026",
+        "event": "Chaturthi upto 01:52 AM Feb 06",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "06-02-2026",
+        "event": "Panchami upto 02:37 AM Feb 07",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "07-02-2026",
+        "event": "Shashthi upto 03:52 AM Feb 08",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "08-02-2026",
+        "event": "Saptami upto 05:31 AM Feb 09",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "09-02-2026",
+        "event": "Ashtami upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "10-02-2026",
+        "event": "Ashtami upto 07:30 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "11-02-2026",
+        "event": "Nabami upto 09:38 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "12-02-2026",
+        "event": "Dashami upto 11:47 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "13-02-2026",
+        "event": "Ekadashi upto 01:45 PM",
+        "festival": "Bijaya Ekadashi, Kumbha Sankranti",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "falgun": [
+      {
+        "date": "1",
+        "gregorianDate": "14-02-2026",
+        "event": "Dbadashi upto 03:23 PM",
+        "festival": "Birth Day of Thakur Panchanan Barma",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": true,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "15-02-2026",
+        "event": "Trayodashi upto 04:36 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "16-02-2026",
+        "event": "Chaturdashi upto 05:20 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "17-02-2026",
+        "event": "Amabasya upto 05:33 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "18-02-2026",
+        "event": "Pratipada upto 05:15 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "19-02-2026",
+        "event": "Dbitiya upto 04:28 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "20-02-2026",
+        "event": "Tritiya upto 03:15 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "21-02-2026",
+        "event": "Chaturthi upto 01:39 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "22-02-2026",
+        "event": "Panchami upto 11:45 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "23-02-2026",
+        "event": "Shashthi upto 09:37 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "24-02-2026",
+        "event": "Saptami upto 07:19 AM,",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "25-02-2026",
+        "event": "Nabami upto 02:34 AM Feb 26",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "26-02-2026",
+        "event": "Nabami upto 02:34 AM Feb 26",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "27-02-2026",
+        "event": "Ekadashi upto 10:10 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "28-02-2026",
+        "event": "Dbadashi upto 08:17 PM",
+        "festival": "Shivaratri",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "01-03-2026",
+        "event": "Trayodashi upto 06:43 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "02-03-2026",
+        "event": "Chaturdashi upto 05:32 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "03-03-2026",
+        "event": "Purnima upto 04:47 PM",
+        "festival": "Doljatra",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "04-03-2026",
+        "event": "Pratipada upto 04:30 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "05-03-2026",
+        "event": "Dbitiya upto 04:45 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "06-03-2026",
+        "event": "Tritiya upto 05:31 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "07-03-2026",
+        "event": "Chaturthi upto 06:45 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "08-03-2026",
+        "event": "Panchami upto 08:24 PM",
+        "festival": "International Womens Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "09-03-2026",
+        "event": "Shashthi upto 10:21 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "10-03-2026",
+        "event": "Saptami upto 12:28 AM Mar 11",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "11-03-2026",
+        "event": "Ashtami upto 02:34 AM Mar 12",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "12-03-2026",
+        "event": "Nabami upto 04:29 AM Mar 13",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "13-03-2026",
+        "event": "Dashami upto Full Night",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "14-03-2026",
+        "event": "Dashami upto 06:04 AM  ",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "30",
+        "gregorianDate": "15-03-2026",
+        "event": "Ekadashi upto 07:14 AM",
+        "festival": "Papmochani Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ],
+    "choitro": [
+      {
+        "date": "1",
+        "gregorianDate": "16-03-2026",
+        "event": "Dbadashi upto 07:54 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "2",
+        "gregorianDate": "17-03-2026",
+        "event": "Trayodashi upto 08:04 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "3",
+        "gregorianDate": "18-03-2026",
+        "event": "Chaturdashi upto 07:42 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "4",
+        "gregorianDate": "19-03-2026",
+        "event": "Amabasya upto 06:52 AM,",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "5",
+        "gregorianDate": "20-03-2026",
+        "event": "Dbitiya upto 03:58 AM Mar 21",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "6",
+        "gregorianDate": "21-03-2026",
+        "event": "Tritiya upto 02:02 AM Mar 22",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "7",
+        "gregorianDate": "22-03-2026",
+        "event": "Chaturthi upto 11:52 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "8",
+        "gregorianDate": "23-03-2026",
+        "event": "Panchami upto 09:32 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "9",
+        "gregorianDate": "24-03-2026",
+        "event": "Shashthi upto 07:08 PM",
+        "festival": "World Tuberculosis Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "10",
+        "gregorianDate": "25-03-2026",
+        "event": "Saptami upto 04:44 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "11",
+        "gregorianDate": "26-03-2026",
+        "event": "Ashtami upto 02:26 PM",
+        "festival": "Ram Nawami (smarta)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "12",
+        "gregorianDate": "27-03-2026",
+        "event": "Nabami upto 12:17 PM",
+        "festival": "Ram Nawami (Vaisnava)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "13",
+        "gregorianDate": "28-03-2026",
+        "event": "Dashami upto 10:23 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "14",
+        "gregorianDate": "29-03-2026",
+        "event": "Ekadashi upto 08:48 AM",
+        "festival": "Kamada Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "15",
+        "gregorianDate": "30-03-2026",
+        "event": "Dbadashi upto 07:36 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "16",
+        "gregorianDate": "31-03-2026",
+        "event": "Trayodashi upto 06:50 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "17",
+        "gregorianDate": "01-04-2026",
+        "event": "Chaturdashi upto 06:33 AM",
+        "festival": "April Fool Day, Yearly Closing of Bank Account (For Banks Only)",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "18",
+        "gregorianDate": "02-04-2026",
+        "event": "Purnima upto 06:46 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "19",
+        "gregorianDate": "03-04-2026",
+        "event": "Pratipada upto 07:31 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "20",
+        "gregorianDate": "04-04-2026",
+        "event": "Dbitiya upto 08:43 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "21",
+        "gregorianDate": "05-04-2026",
+        "event": "Tritiya upto 10:20 AM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "22",
+        "gregorianDate": "06-04-2026",
+        "event": "Chaturthi upto 12:16 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "23",
+        "gregorianDate": "07-04-2026",
+        "event": "Panchami upto 02:21 PM",
+        "festival": "World Health Day",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "24",
+        "gregorianDate": "08-04-2026",
+        "event": "Shashthi upto 04:24 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "25",
+        "gregorianDate": "09-04-2026",
+        "event": "Saptami upto 06:16 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "26",
+        "gregorianDate": "10-04-2026",
+        "event": "Ashtami upto 07:49 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "27",
+        "gregorianDate": "11-04-2026",
+        "event": "Nabami upto 08:56 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "28",
+        "gregorianDate": "12-04-2026",
+        "event": "Dashami upto 09:34 PM",
+        "festival": null,
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      },
+      {
+        "date": "29",
+        "gregorianDate": "13-04-2026",
+        "event": "Ekadashi upto 09:40 PM",
+        "festival": "Baruthini Ekadashi",
+        "isPublicHoliday": false,
+        "isSectionalHoliday": false,
+        "isStateHoliday": true
+      },
+      {
+        "date": "30",
+        "gregorianDate": "14-04-2026",
+        "event": "Dbadashi upto 09:17 PM",
+        "festival": "Birth Day of Dr. B. R. Ambedkar",
+        "isPublicHoliday": true,
+        "isSectionalHoliday": false,
+        "isStateHoliday": false
+      }
+    ]
+  },
+  "1433": {
+    "boishakh": [],
+    "joishho": [],
+    "asharh": [],
+    "shrabon": [],
+    "bhadro": [],
+    "ashwin": [],
+    "kartik": [],
+    "ogrohayon": [],
+    "poush": [],
+    "magh": [],
+    "falgun": [],
+    "choitro": []
+  },
+  "1434": {
+    "boishakh": [],
+    "joishho": [],
+    "asharh": [],
+    "shrabon": [],
+    "bhadro": [],
+    "ashwin": [],
+    "kartik": [],
+    "ogrohayon": [],
+    "poush": [],
+    "magh": [],
+    "falgun": [],
+    "choitro": []
+  }
+}
