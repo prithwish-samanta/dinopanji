@@ -9,7 +9,7 @@ import data from "../data/bengali_calender.json";
 
 export default function CalenderPage() {
     const availableYears = useMemo(() => Object.keys(data).sort(), []);
-    const today = new Date('2025-10-01T12:00:00Z');
+    const today = new Date();
     const todayString = formatGregorianDate(today);
 
     const initialDateLocation = useMemo(() => findBengaliDateLocation(todayString, data), [todayString]);
