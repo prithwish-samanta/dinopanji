@@ -68,7 +68,7 @@ export default function CalenderPage() {
     };
 
     return (
-        <div className="p-2 sm:p-4">
+        <div className="p-2 sm:p-4 md:p-6 max-w-7xl mx-auto">
             <CalendarHeader
                 year={currentBengaliYear}
                 monthKey={currentMonthKey}

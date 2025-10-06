@@ -19,7 +19,7 @@ export default function CalendarGrid({monthData, onDateClick, todayString}) {
     return (
         <div className="grid grid-cols-7 gap-1 sm:gap-2">
             {BENGALI_WEEKDAYS.map(day => <div key={day}
-                                              className="text-center font-semibold text-muted-foreground text-sm py-2">{day}</div>)}
+                                              className="text-center font-semibold text-muted-foreground text-sm md:text-base py-2">{day}</div>)}
             {Array.from({length: startDayOfWeek}).map((_, i) => <div key={`empty-leading-${i}`}
                                                                      className="bg-zinc-100/50 rounded-lg"></div>)}
             {monthData.map((day, index) => <DateCell key={index} dayInfo={day} onDateClick={onDateClick}
